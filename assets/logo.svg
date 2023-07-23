@@ -1,0 +1,42 @@
+       <svg viewBox="0 0 640 400" data-background-color="#ffffff" height="40" width="60"
+          xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+          <rect width="640" height="400" x="0" y="0" opacity="1" fill="#ffffff" data-fill-palette-color="background"
+            id="background"></rect>
+          <g id="tight-bounds" transform="matrix(1,0,0,1,128,20)"><svg viewBox="0 0 384 360" height="360" width="384">
+              <g><svg></svg></g>
+              <g><svg viewBox="0 0 384 360" height="360" width="384">
+                  <g>
+                    <path xmlns="http://www.w3.org/2000/svg"
+                      d="M362.354 145.441v-42.24c0-21.12-19.163-38.402-42.587-38.402h-93.208c-15.198 0-28.337-8.831-34.559-21.646-6.222 12.81-19.36 21.646-34.559 21.646h-93.208c-23.424 0-42.587 17.282-42.587 38.402v42.24c0 15.198-8.831 28.337-21.646 34.559 12.81 6.222 21.646 19.36 21.646 34.559v42.24c0 21.12 19.163 38.402 42.587 38.402h93.208c15.198 0 28.337 8.831 34.559 21.646 6.222-12.81 19.36-21.646 34.559-21.646h93.208c23.424 0 42.587-17.282 42.587-38.402v-42.24c0-15.198 8.831-28.337 21.646-34.559-12.81-6.222-21.646-19.36-21.646-34.559z"
+                      fill="#0063db" fill-rule="nonzero" stroke="none" stroke-width="1" stroke-linecap="butt"
+                      stroke-linejoin="miter" stroke-miterlimit="10" stroke-dasharray="" stroke-dashoffset="0"
+                      font-family="none" font-weight="none" font-size="none" text-anchor="none" style="mix-blend-mode: normal"
+                      data-fill-palette-color="tertiary"></path>
+                  </g>
+                  <g transform="matrix(1,0,0,1,131.2987951807229,99)"><svg viewBox="0 0 121.40240963855423 162" height="162"
+                      width="121.40240963855423">
+                      <g><svg viewBox="0 0 121.40240963855423 162" height="162" width="121.40240963855423">
+                          <g><svg viewBox="0 0 121.40240963855423 162" height="162" width="121.40240963855423">
+                              <g><svg viewBox="0 0 121.40240963855423 162" height="162" width="121.40240963855423">
+                                  <g id="textblocktransform"><svg viewBox="0 0 121.40240963855423 162" height="162"
+                                      width="121.40240963855423" id="textblock">
+                                      <g><svg viewBox="0 0 121.40240963855423 162" height="162" width="121.40240963855423">
+                                          <g transform="matrix(1,0,0,1,0,0)"><svg width="121.40240963855423"
+                                              viewBox="1.75 -36.5 31.099998474121094 41.5" height="162"
+                                              data-palette-color="#ffffff">
+                                              <path
+                                                d="M6.7 0.65L6.7 0.65Q4.65 0.65 3.2-0.85 1.75-2.35 1.75-4.4L1.75-4.4Q1.75-6.45 3.2-7.93 4.65-9.4 6.7-9.4L6.7-9.4Q8.8-9.4 10.28-7.93 11.75-6.45 11.75-4.4L11.75-4.4Q11.75-3.05 11.08-1.9 10.4-0.75 9.25-0.05 8.1 0.65 6.7 0.65ZM18.7 5L11.85 5 26-36.5 32.85-36.5 18.7 5Z"
+                                                opacity="1" transform="matrix(1,0,0,1,0,0)" fill="#ffffff"
+                                                class="wordmark-text-0" data-fill-palette-color="quaternary" id="text-0"></path>
+                                            </svg></g>
+                                        </svg></g>
+                                    </svg></g>
+                                </svg></g>
+                            </svg></g>
+                        </svg></g>
+                    </svg></g>
+                </svg></g>
+              <defs></defs>
+            </svg>
+          </g>
+        </svg>
